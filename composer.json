@@ -1,12 +1,12 @@
 {
-    "name": "ezsystems/ezplatform-standard-design",
+    "name": "se7enxweb/ezplatform-standard-design",
     "description": "eZ Platform Standard Design Bundle",
     "type": "ezplatform-bundle",
     "license": "GPL-2.0-only",
     "require": {
         "symfony/http-kernel": "^3.4",
         "ezsystems/ezplatform-design-engine": "^2.0@dev",
-        "ezsystems/ezpublish-kernel": "^7.0"
+        "se7enxweb/ezpublish-kernel": "^7.0"
     },
     "require-dev": {
         "matthiasnoback/symfony-dependency-injection-test": "^3.0",
