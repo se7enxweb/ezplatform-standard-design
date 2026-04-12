@@ -3,6 +3,9 @@
     "description": "Exponential Platform Standard Design Bundle",
     "type": "ezplatform-bundle",
     "license": "GPL-2.0-or-later",
+    "replace": {
+        "ezsystems/ezplatform-standard-design": "*"
+    },
     "require": {
         "symfony/http-kernel": "^5.0",
         "se7enxweb/ezplatform-design-engine": "~3.0.0@dev",
